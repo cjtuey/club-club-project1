@@ -1,0 +1,4 @@
+Initial response (Cian Tuey):
+Here is our GitHub link for you to view and run our code so far: https://github.com/cjtuey/club-club-project1
+To summarize my part in the project thus far, I have created the repository, main.cpp, source files for each other collaborator to work on, and their accompanying headers. The project was created with QTCreator. [TODO: determine whether agile or top-down approach is being used]
+The tasks are assigned according to the breakdown of features in the previous assignment, with each person's code in a separate .cpp file for the sake of simplicity. Our plan going forward is to write and test our individual files separately, add them to the repository, and I'll integrate them into main.cpp and ensure the project as a whole builds and runs correctly.
