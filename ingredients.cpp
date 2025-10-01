@@ -1,5 +1,5 @@
 /*
-    ingredients.cpp: written by [YOUR NAME HERE]
+    ingredients.cpp: written by Ayoola Saliu
  */
 
 #include "include/ingredients.h"
