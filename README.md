@@ -1,4 +1,5 @@
 # club-club-project1
+UPDATED 10/02/25 14:41: see end of document
 The assignment for Club Club for the first half semester project. 
 
 This repository is a QTCreator project, which can hopefully be easily imported into everyone else's IDEs if they're using the same one. Otherwise, using CMake from the command line could also work. If all else fails, you can build your own part of the project however you see fit, and I'll test it to make sure it still works when added to the CMake project. 
@@ -10,3 +11,5 @@ The file "summary.txt" is our text submission. Feel free to add to it in any way
 To contribute, you can use the Git command line tool to clone the repository, and commit and push when you want to update the main branch on GitHub. These command should work: "git clone https://github.com/cjtuey/club-club-project1", "git add [YOUR FILE]", "git commit", and "git push". I'm not very good with Git, so here's a tutorial to help if I've gotten anything wrong: https://github.com/git-guides. ([YOUR FILE] should be replaced with your part of the project, e.g. "ingredients.cpp").
 
 If you have any questions, let me know. I'll update this README with anything useful I can think of. 
+
+UPDATE #1: In order for me to merge your changes into main, I believe you need to make a pull request. This can be done through the GitHub website. I don't fully understand how any of this works, so we might need to experiment a little bit to figure it out. 
