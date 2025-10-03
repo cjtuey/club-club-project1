@@ -22,6 +22,8 @@ add_executable(ClubClubBar
   ordering.cpp
   mixing.cpp
   payment.cpp
+  util.cpp
+  include/util.h
 )
 target_link_libraries(ClubClubBar Qt${QT_VERSION_MAJOR}::Core)
 
