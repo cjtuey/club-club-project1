@@ -123,3 +123,4 @@ CMakeLists.txt.user*
 .uic/
 /build*/
 .vs/
+/out/build/x64-Debug
