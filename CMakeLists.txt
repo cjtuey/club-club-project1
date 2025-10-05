@@ -7,7 +7,6 @@ set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 set(CMAKE_CXX_EXTENSIONS OFF)
 
-<<<<<<< HEAD
 # --- Sources ---
 set(SOURCES
     main.cpp
@@ -15,23 +14,7 @@ set(SOURCES
     ordering.cpp
     mixing.cpp
     payment.cpp
-=======
-find_package(QT NAMES Qt6 Qt5 REQUIRED COMPONENTS Core)
-find_package(Qt${QT_VERSION_MAJOR} REQUIRED COMPONENTS Core)
-
-add_executable(ClubClubBar
-  main.cpp
-  include/ingredients.h
-  include/ordering.h
-  include/mixing.h
-  include/payment.h
-  ingredients.cpp
-  ordering.cpp
-  mixing.cpp
-  payment.cpp
-  util.cpp
-  include/util.h
->>>>>>> eb2a83cd21f98e965afc07d96467b134a07b342e
+    util.cpp
 )
 
 set(HEADERS
@@ -39,6 +22,7 @@ set(HEADERS
     include/ordering.h
     include/mixing.h
     include/payment.h
+    include/util.h
 )
 
 # --- Executable ---

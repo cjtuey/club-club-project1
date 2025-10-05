@@ -1,8 +1,0 @@
-Initial response (Cian Tuey):
-Here is our GitHub link for you to view and run our code so far: https://github.com/cjtuey/club-club-project1
-To summarize my part in the project thus far, I have created the repository, main.cpp, source files for each other collaborator to work on, and their accompanying headers. The project was created with QTCreator.
-I believe we are using a top-down approach, since our project is split into different source files for different people, with no collaborative kernel. 
-The tasks are assigned according to the breakdown of features in the previous assignment, with each person's code in a separate .cpp file for the sake of simplicity. Our plan going forward is to write and test our individual files separately, add them to the repository, and I'll integrate them into main.cpp and ensure the project as a whole builds and runs correctly.
-
-Update (Cian Tuey):
-I'm including a zip of our code so far, as well as tagging a release on GitHub. You can use whichever you prefer for grading. Please note that the "[filename] has received no contributions" message means that the person responsible for [filename] has not yet made any commits. However, the fact that those messages display means that the files are working properly together. 
